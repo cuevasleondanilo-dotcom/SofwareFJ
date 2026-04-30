@@ -1,0 +1,21 @@
+2026-04-29 19:13:42,163 - INFO - Sistema de Gestión inicializado
+2026-04-29 19:13:42,164 - INFO - Cliente creado exitosamente: Ana María Rodríguez (ID: C001)
+2026-04-29 19:13:42,164 - INFO - Cliente registrado: Ana María Rodríguez
+2026-04-29 19:13:42,165 - ERROR - Error al registrar cliente: Email inválido: email_invalido
+2026-04-29 19:13:42,166 - ERROR - Error al registrar cliente: Teléfono inválido: 123
+2026-04-29 19:13:42,168 - INFO - Servicio agregado: Sala de Conferencias
+2026-04-29 19:13:42,172 - INFO - Servicio agregado: Laptop HP
+2026-04-29 19:13:42,175 - INFO - Servicio agregado: Asesoría en Python
+2026-04-29 19:13:42,179 - INFO - Cliente creado exitosamente: María Gómez (ID: C004)
+2026-04-29 19:13:42,180 - INFO - Cliente registrado: María Gómez
+2026-04-29 19:13:42,182 - INFO - Cliente creado exitosamente: Carlos Ruiz (ID: C005)
+2026-04-29 19:13:42,183 - INFO - Cliente registrado: Carlos Ruiz
+2026-04-29 19:13:42,185 - INFO - Reserva creada: RES-0001 para Ana María Rodríguez
+2026-04-29 19:13:42,187 - INFO - Reserva RES-0001 confirmada
+2026-04-29 19:13:42,214 - ERROR - Error al crear reserva: Servicio con ID S999 no encontrado
+2026-04-29 19:13:42,226 - ERROR - Error al crear reserva: Cliente con ID C999 no encontrado
+2026-04-29 19:13:42,242 - ERROR - Error al crear reserva: No se puede crear la reserva: La duración no puede exceder 24 horas
+2026-04-29 19:13:42,253 - INFO - Reserva RES-0001 cancelada
+2026-04-29 19:13:42,255 - INFO - Reserva creada: RES-0003 para María Gómez
+2026-04-29 19:13:42,256 - INFO - Reserva RES-0003 confirmada
+2026-04-29 19:13:42,257 - INFO - Reserva RES-0003 completada
